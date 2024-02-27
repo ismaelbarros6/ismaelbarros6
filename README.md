@@ -1,4 +1,4 @@
-## Ola, tudo bem ? aqui você vera meus projetos.
+## Ola, tudo bem ? aqui você vai ver meus projetos.
 
 <div align="center">
   <a href="https://github.com/ismaelbarros6">
